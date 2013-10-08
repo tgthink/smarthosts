@@ -676,4 +676,15 @@
 
 38.229.72.14 www.torproject.org
 
+#RTHK
+59.188.18.206 www.rthk.org.hk
+59.188.18.210 www.rthk.org.hk
+59.188.18.206 www.rthk.hk
+59.188.18.210 www.rthk.hk
+59.188.18.206 rthk.hk
+59.188.18.210 rthk.hk
+59.188.18.214 sdc.rthk.hk
+59.188.18.242 myrthk.hk
+59.188.18.208 programme.rthk.hk
+
 #SmartHosts END
