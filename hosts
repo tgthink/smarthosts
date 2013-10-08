@@ -677,14 +677,25 @@
 38.229.72.14 www.torproject.org
 
 #RTHK
-59.188.18.206 www.rthk.org.hk
-59.188.18.210 www.rthk.org.hk
-59.188.18.206 www.rthk.hk
-59.188.18.210 www.rthk.hk
-59.188.18.206 rthk.hk
-59.188.18.210 rthk.hk
-59.188.18.214 sdc.rthk.hk
-59.188.18.242 myrthk.hk
-59.188.18.208 programme.rthk.hk
+59.188.18.206	www.rthk.org.hk
+59.188.18.210	www.rthk.org.hk
+59.188.18.206	www.rthk.hk
+59.188.18.210	www.rthk.hk
+59.188.18.206	rthk.hk
+59.188.18.210	rthk.hk
+59.188.18.214	sdc.rthk.hk
+59.188.18.242	myrthk.hk
+59.188.18.208	programme.rthk.hk
+
+#yfrog.com
+208.94.0.61	yfrog.com
+208.94.0.21	yfrog.com
+208.94.0.38	yfrog.com
+208.94.0.205	a.yfrog.com
+208.94.1.40	a.yfrog.com
+208.94.0.53	a.yfrog.com
+208.94.0.61	www.yfrog.com
+208.94.0.21	www.yfrog.com
+208.94.0.38	www.yfrog.com
 
 #SmartHosts END
